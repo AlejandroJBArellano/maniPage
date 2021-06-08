@@ -1,0 +1,35 @@
+{
+  "name": "manipage",
+  "version": "0.1.0",
+  "description": "una práctica de javscript full stack",
+  "main": "index.js",
+  "scripts": {
+    "test": "node src/index.js",
+    "start": "node src/index.js",
+    "dev": "nodemon src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlejandroJBArellano/maniPage.git"
+  },
+  "keywords": [
+    "nodejs",
+    "javascript",
+    "express",
+    "sass",
+    "ejs"
+  ],
+  "author": "alejadroarellano\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[Cn\u001b[F\u001b[B\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[D\u001b[D\u001b[Dd\u001b[F\u001b[B\u001b[F\u001b[B\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[Croarellano",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlejandroJBArellano/maniPage/issues"
+  },
+  "homepage": "https://github.com/AlejandroJBArellano/maniPage#readme",
+  "dependencies": {
+    "ejs": "^3.1.6",
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
